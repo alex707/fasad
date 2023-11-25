@@ -1,0 +1,21 @@
+<div id="<%= dom_id order %>">
+  <p>
+    <strong>record_id:</strong>
+    <%= order.id %>
+  </p>
+
+  <p>
+    <strong>Author:</strong>
+    <%= order.author_id %>
+  </p>
+
+  <p>
+    <strong>File name:</strong>
+    <%= order&.file&.filename %>
+  </p>
+
+  <p>
+    <%= image_tag(order.file, size: '250x250') if order.file %>
+  </p>
+
+</div>
