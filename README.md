@@ -1,24 +1,12 @@
-# README
+# urbanhack2023
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+тестовая отгрузка файлов
 
-Things you may want to cover:
+фронт тут:
+https://github.com/nsivaev/
 
-* Ruby version
+моделька тут:
+https://github.com/StayPos1t1ve/urbanton/tree/main
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+сервер с моделькой тут:
+ssh root@84.38.184.144
